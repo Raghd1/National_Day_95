@@ -4,7 +4,7 @@
     /*box-sizing: border-box;*/
     font-family: Fustat;
 }
-
+/*
 body{
     min-height: 100vh;
     display: flex;
@@ -13,7 +13,7 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-}
+}*/
 a{
   color: #041b21;
   text-decoration: none;
@@ -118,3 +118,4 @@ a:hover{
   }
 
 }
+
