@@ -4,17 +4,16 @@
     /*box-sizing: border-box;*/
     font-family: Fustat;
 }
-/*
+
 body{
     min-height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url(/imgs/bg2.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-}*/
+}
 a{
   color: #041b21;
   text-decoration: none;
@@ -117,4 +116,5 @@ a:hover{
   .main {
     width: 100%;
   }
+
 }
